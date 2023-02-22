@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import Base.BaseTest;
 import Pages.LoginPage;
 
-public class loginTest extends BaseTest {
+public class loginTest {
 
 //	@Test
 //	public void loginWithCreds() throws InterruptedException {
